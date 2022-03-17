@@ -1,15 +1,18 @@
-### ʕ•́ᴥ•̀ʔっ Ola! Eu sou a Elisa Chaves...
+## ʕ•́ᴥ•̀ʔっ Ola! Eu sou a Elisa Chaves...
 
-##"Ser ruim em alguma coisa é o primeiro passo para se tornar bom em alguma coisa" -JAKE
+<img align="right" alt="gif-jake" src="https://i.pinimg.com/originals/26/24/77/2624779c7876079a4d3972954c9a9f4e.gif">
 
-<img aling="center" alt="gif-jake" src="https://i.pinimg.com/originals/26/24/77/2624779c7876079a4d3972954c9a9f4e.gif">
+<h4>"Ser ruim em alguma coisa é o primeiro passo para se tornar bom em alguma coisa" -JAKE<h4>
 
+ 
 <!--
 **ElisaAChaves/ElisaAChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
+### About Me ʕ•ᴥ•ʔ 
+ 
 - 🌱 I’m currently study HTML, CSS and JavaScript... But I usually like any Front-End language;
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her;

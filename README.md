@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### About Me ʕ•ᴥ•ʔ 
  
 - 🌱 I’m currently study HTML, CSS and JavaScript... But I usually like any Front-End language;
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/elisa-chaves-5a0295200/
 - 😄 Pronouns: she/her;
 - ⚡ Fun fact: I learned at the age of nine, accidentally to program.
 
